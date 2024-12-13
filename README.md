@@ -1,7 +1,18 @@
 # WXT + Vue 3
 
-This template should help get you started developing with Vue 3 in WXT.
+```sh
+npx wxt@latest init
+```
 
-## Recommended IDE Setup
+## entrypoints
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar).
+1. bookmarks
+2. devtools
+3. history
+4. newtab
+5. options
+6. popup
+7. sandbox
+8. sidepanel
+9. background
+10. content
